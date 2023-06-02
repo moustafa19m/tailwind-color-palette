@@ -6,12 +6,12 @@ Tailwind colors come with tailwind install, but there are cases where you can't 
 
 To install 
 ```
-npm install tailwind-color-palette
+npm i @makhlouf/tailwind-color-palette
 ```
 
 Usage
 ```
-import {Stale} from 'tailwind-color-palette';
+import {Stale} from '@makhlouf/tailwind-color-palette';
 
 console.log(Stale[200])  //"#e2e8f0"
 ```

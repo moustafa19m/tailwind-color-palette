@@ -285,7 +285,7 @@ Rose[800] = "#9f1239";
 Rose[900] = "#881337";
 Rose[950] = "#4c0519";
 
-export { 
+module.exports = { 
     Stale, 
     Gray, 
     Zinc, 
