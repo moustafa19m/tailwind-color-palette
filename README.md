@@ -1,6 +1,6 @@
 # Tailwind Colors Palette
 
-Tailwind colors come with tailwind install, but there are cases where you can't install tailwind directly such as in react native apps. This package copies all the tailwind colors and wraps them for you to call them easily with the custom values of tailwind.
+Tailwind colors come with tailwind install, but there are cases where you can't install tailwind directly such as in react native apps. This package copies all the tailwind colors and wraps them for you to call them easily with the default values of tailwind.
 
 ## Getting Started
 
