@@ -1,0 +1,28 @@
+{
+  "name": "tailwind-color-palette",
+  "version": "1.0.0",
+  "description": "Tailwind colors come with tailwind install, but there are cases where you can't install tailwind directly such as in react native apps. This package copies all the tailwind colors and wraps them for you to call them easily with the custom values of tailwind. ",
+  "main": "colorPalette.js",
+  "scripts": {
+    "publish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moustafa19m/tailwind-color-palette.git"
+  },
+  "keywords": [
+    "tailwind-css",
+    "tailwind",
+    "react-native",
+    "react",
+    "css",
+    "color",
+    "colors"
+  ],
+  "author": "makhlouf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moustafa19m/tailwind-color-palette/issues"
+  },
+  "homepage": "https://github.com/moustafa19m/tailwind-color-palette#readme"
+}
